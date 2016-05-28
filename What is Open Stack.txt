@@ -1,0 +1,173 @@
+*go to #pycon on freenode
+
+https://etherpad.openstack.org/p/pycon2016-dojo - https://goo.gl/nirnuL
+
+
+
+*Name - what do you do?
+Mike Perez (thingee) - Cross-project developer coordinator @ OpenStack Foundation
+Saran Ahluwalia - Software Engineer/Data Scientist @ DivvyCloud
+Marti (mm) - Software Engineer @ IST, mainly python apis and webapps
+James Hiebert (JMH) - Scientific Software Engineer
+Daniel - IT Op Mgmt, AMath
+Jeffrey McLarty (jnmclarty) - Data Abstraction + Portfolio Analytic Systems @ CPPIB 
+Jeff Ubelhor (jmu) - Developer for Indiana State Legislature (python/django)
+jallen - Automation for MySQL
+Sam - developer (data products)
+Aaron Dershem - Monitoring and Automation
+Julie Kwok - Junior Full-Stack Developer
+Abayomi Sofolahan - Research Assistant (Internet of Things)
+Hyunchel - Junior back-end devleoper
+Mattius - opsman
+Leann - Business Analyst/CS Student
+Matthew Bourque - Developer for Hubble Space Telescope data analysis
+Ben Freeman - Website Development with Python
+Shu - Automation Engineer @ Airware
+Todd Smith - Saas dev product dev
+Shannon Files - Software Engineer (data)
+Piyush Sharma: GPU Tools Automation @VMware
+Software developer, Python/R epidemiology
+Richard - Django Dev @ Indeed
+Michael  Gilbert - Data Analysis/application development/automation
+Karla Alvarez  
+Chris Martin - Systems Integrator
+Dmitrii Kishchukov -Software Developer. Django. Web ap. Selenium tests. Some Django extentions.
+Peter Deneys: general python
+Andriy Sprenchynat - Python and back-end dev
+Jami - CS Student / Breaker of Things  <~ :)
+Vahan Grigoryan - Data Scientist
+Kin Zhao - Software Engineer Intern
+Kevan Swanberg - Application development
+Ernesto Vargas - Django Web Developer - @netoxico
+Hiren - Development Manager
+Babak - Django Developer
+Eric Jones - Django Developer/Web Developer
+Flint - educator
+Aron Patel - arpt - IKEA IT Automation Engineer
+ls
+Jide(Gday)-Yield Engineer/Data Scientist
+
+*Problems
+
+*Active Problems
+Is there a hello world for OpenStack?+1 +1+1+1+1
+http://docs.openstack.org/developer/taskflow/examples.html
+http://docs.openstack.org/developer/devstack/guides/single-machine.html
+Sample Apps: https://github.com/openstack/api-site/tree/master/firstapp/samples
+
+What is Open Stack
+www.openstack.org/software
+A Tool that helps companies build thier own cloud services
+
+
+List of Projects running on OpenStack
+https://www.openstack.org/software/project-navigator
+
+ +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
+
+Openstack most simple example with main features?+1+1
+
+How to get VM up
+http://docs.openstack.org/developer/devstack/guides/single-vm.html
+https://docs.oracle.com/cd/E36784_01/html/E54155/clicreatevm.html
+
+No network available:
+https://ask.openstack.org/en/question/82084/cant-launch-an-instance-no-network/
+
+What are the performance implications of leveraging openstack?
+What are the security issues that Openstack needs to address/implement?+1+1+1+1
+I will like to know what openStack is and how to setup containers
+I'd like to know how I can use openstack on a hybrid cloud/leased computing platform+!
+I'd like to know if I can build a CI/CD solution using OpenStack (git commit to cloud deployment after test cases pass)+`
+Openstack On Prem vs Hosted..   challenges +1
+Databases in Openstack? Are people using trove?
+Can it host Mean? Meteor?
+How is openstack used with Data sience/ Machine Learning?+5+1+1+1+1
+What is the limit for scale in openstack?  Where do things start falling over and how to avoid it
+What is the best way for me to test and monitor my openstack environment?+1
+How can we use this to help create dynamic data analysis services, especially usable by non-data people?+2
+Does OpenStack make sense for someone with maybe a half-dozen instances that don't change very often, e.g. for side and personal projects?
+How can OpenStack help me get my job done?+1+1+1
+As an open source project, what do you find to be the most difficult to maintain?+1+1
+What are the best use cases for Mob programming and how can I try this at my company?
+What persistance/storage is available in OpenStack
+What is Django to openStack+1
+How can microservices be enhanced with OpenStack?
+What are the pro/cons to using OpenStack?+1
+What will OpenStack look like in 5 years? +1+1
+
+What can run on OpenStack?+1+1+1
+Django in OpenStack? +1+1
+Databases in Openstack? Are people using trove? 
+Can it host Mean? Meteor?
+Does OpenStack make sense for someone with maybe a half-dozen instances that don't change very often, e.g. for side and personal projects?  
+
+how can openstack be leveaged for IOT development?+1
+OpenStack vs Amazon Cloud?+1
+Does OpenStack use some kind of virtualization technology?
+
+Are their free/discount version for students or personnal projects to learn more
+
+
+What is flav
+
+
+
+http://developer.openstack.org/firstapp-libcloud/getting_started.html
+
+
+
+
+
+OpenStack booklet (pdf) : https://www.openstack.org/assets/path-to-cloud/OpenStack-6x9Booklet-onl
+http://specs.openstack.org/openstack/neutron-specs/specs/liberty/availability-zone.html
+
+http://docs.openstack.org/user-guide/sdk.html
+
+http://docs.openstack.org/infra/shade/
+
+OpenStack Python SDK
+http://docs.openstack.org/user-guide/sdk.html
+
+Shade with virtual env
+http://docs.openstack.org/infra/shade/installation.html
+More about Shade:
+     https://pypi.python.org/pypi/shade/1.9.0
+     Docs: http://docs.openstack.org/infra/shade/
+
+On a scale of 0 to 10 would you recommend this training to a friend?
+Please put your rating of this training below by adding a "+1"
+0  =
+1  =+1
+2  = +1+1
+3  =
+4  =+1
+5  =+1+1-1
+6  =+1+1+1
+7  =+1+1+1
+8  =+1
+9  = +1+1
+10= 
+
+Tutorials
+Is there a docker container that has all of the software pre-installed so we can interoperate with openstack ... see Google Cloud SDK docker container?  https://hub.docker.com/r/continuse/openstack-controller/~/dockerfile/ Is this one?
+Love the amount of energy but seems hard to keep the momentum. It's great to involve so many people. Perhaps split it into two mob groups so that the beginners and more advanced folk can both feel like they got a lot out of it.
+Support new method of approaching a presentation!
+This approach is promising - need to make sure the env is well-prepared though!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+https://etherpad.openstack.org/p/pycon2016-dojo
+
+Host user OpenStack
+https://www.dreamhost.com/hosting/
