@@ -24,3 +24,13 @@ https://github.com/ibm-cds-labs/spark.samples/raw/master/notebook/DashDB%20Twitt
 
 SIMPLE DATA PIPE package.json:
 "simple-data-pipe-connector-flightstats":"git://github.com/ibm-cds-labs/simple-data-pipe-connector-flightstats.git"
+
+github.com/ibm-cds-labs/simple-data-pipe-connector-flightstats/raw/master/flightPredict/training.py
+github.com/ibm-cds-labs/simple-data-pipe-connector-flightstats/raw/master/flightPredict/run.py
+
+Spark can be distributed (suggested to us multiple machines to fully utalize) 
+number of threads
+run in local mode and you don't have to set up complex set of multiple machines. Just watch data size if running locally. 
+
+Get started with Spark (Hello World)
+developer.ibm.com/clouddataservices (look for his name)
