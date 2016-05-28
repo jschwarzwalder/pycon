@@ -1,3 +1,11 @@
+Powerpoint
+Flight Data
+http://www.slideshare.net/DTAIEB/spark-tutorial-pycon-2016-part-1
+
+Twitter Data
+http://www.slideshare.net/DTAIEB/spark-tutorial-py-con-2016-part-2
+
+
 Bluemix:
 https://console.ng.bluemix.net
 
@@ -13,3 +21,6 @@ https://github.com/ibm-cds-labs/simple-data-pipe-connector-flightstats/raw/maste
 
 Car Notebook, Slide 21:
 https://github.com/ibm-cds-labs/spark.samples/raw/master/notebook/DashDB%20Twitter%20Car%202015%20Python%20Notebook.ipynb
+
+SIMPLE DATA PIPE package.json:
+"simple-data-pipe-connector-flightstats":"git://github.com/ibm-cds-labs/simple-data-pipe-connector-flightstats.git"
