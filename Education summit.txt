@@ -1,0 +1,27 @@
+pygames - Teachers like it but it has alot of set up
+
+Created pyZero runs on Raspberry Pi simple commands and input from mouse and keyboard.
+
+Working on making simpler tools to get setup quickly
+
+Zero - PyGame
+GPio
+Network
+Mu (an editor)
+
+All based on existing body of work
+Gives relavant error messages for new coders
+
+MicroPython - python 3
+
+microbit being given to students in UK
+
+microbit.co.uk has informaiton and web programming tools
+
+if you dont' want to code online you can download Code with Mu
+
+to support they created pyconic.github.io
+python commic
+microbit World Tour
+ntoll.org
+twitter.com/ntroll
