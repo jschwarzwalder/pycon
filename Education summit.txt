@@ -77,6 +77,10 @@ pycademy Qi from Detroit Library
 
 
 --------------------------------------------------------------
+
+Pycharm 
+
+--------------------------------------------------------------
 Using Graphics Library to build projects
 
 Project 1) make a face
@@ -124,3 +128,39 @@ Then talk about how to solve it if you find it.
 Blockly + Python
 
 Variables are hard for students to grasp
+
+------------------------------------------------
+Montessori
+
+College - focuses on langauge not on solving problems
+Welcome to Django online classes
+
+Teachers
+1. Materials (book, game, blocks)
+2. Classmates (peers. Learning with someone exchanging experiences)
+3. Tutor (obseve enviroment, address when students struggle)
+
+materials - autocorrection
+we can write code to fix code. 100% test driven
+
+no tests/grades 
+Stats for how much time spent and which milestone reached, but no grades
+Build incrementally one step at a time
+
+Enviroment should empower me (shouldn't require me to memorize things to be successful)
+
+Ubuntu - most used platform so they can find answers.
+
+can guide through host stack
+
+Content is an obstacle
+Students present to who they will be in the future.
+small pills to help students
+Learn it now try this
+
+5 min video, try this, 5 more, try it.
+
+Share what they are learning. 
+henrique@bastos.net
+
+
