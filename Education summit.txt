@@ -36,3 +36,31 @@ Website with worksheets and quizzes
 Made Amazon Create Space, self published
 
 Camtasia used to edit Audio
+
+--------------------------------------------------------------
+PyGame Library
+Mature and Well Known
+SDLI C++ Library
+Dev has stagnate
+Website has issues
+
+Arcade is Open GL and Pyglet
+makes it easier to use than PyGame
+
+programArcadeGames.com
+
+arcade.academy
+pythonhosted.org/arcade
+
+--------------------------------------------------------------
+PyGames Zero 
+shippes on Raspberry Pi
+
+Adventures in Raspberry Pi 
+Geek Girl Diaries?
+
+minemum.com - learn what is minecraft
+
+jupyter
+
+raspberrypi.org/learning/getting-started-with-minecraft-pi/worksheet
