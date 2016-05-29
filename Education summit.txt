@@ -74,3 +74,13 @@ dgplug.org Linux User Group free Online summer to take normal computer users to 
 
 
 pycademy Qi from Detroit Library
+
+
+--------------------------------------------------------------
+Using Graphics Library to build projects
+
+Project 1) make a face
+Project 2) Load in a text file (it builds an image)
+Project 3) Build a house
+Project 4) Build Balloons attach string to object
+Project 5) make house float up screen.
