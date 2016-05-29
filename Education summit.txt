@@ -84,3 +84,11 @@ Project 2) Load in a text file (it builds an image)
 Project 3) Build a house
 Project 4) Build Balloons attach string to object
 Project 5) make house float up screen.
+
+--------------------------------------------------------------
+Grok Learning
+40,000 failed attempts at writing Hello World
+
+Programming Competition
+teach everything you need to know to compete
+
