@@ -92,3 +92,35 @@ Grok Learning
 Programming Competition
 teach everything you need to know to compete
 
+punctionation is biggest cause of errors
+Wrong words, or no output
+
+of 1015 who got a Syntax Erro only 465 stayed 
+Name Error 306 129 
+
+These two errors turn people off from programing
+
+Running Code 
+avg of 10 attempts
+32% ended in errors
+Syntax errors 17% of time
+
+Name Error:
+var1= input('What is your name?')
+print('Hello', var2)
+
+or
+input('What is your name?')
+print(input)
+
+
+Hello Name is significantly more difficult than Hello World
+
+see error feels like a stop sign 
+
+teacher has board of errors. Add as you find a new one.
+Then talk about how to solve it if you find it.
+
+Blockly + Python
+
+Variables are hard for students to grasp
