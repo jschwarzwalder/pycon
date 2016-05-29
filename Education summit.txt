@@ -164,3 +164,61 @@ Share what they are learning.
 henrique@bastos.net
 
 
+------------------------------------------------
+
+Equity
+
+Afterschool childcare 
+if they want to stay after school they can't get to daycare
+hinderance to participation 
+
+Afer School
+at YMCA, Boys & Girls Club, and KCLS
+
+Kids can't type (but have smartphones and compent)
+
+Leave room for internationalization if making educational tech
+Parents care, but need in home language
+
+Beforehand
+--What are the steps for background check
+--What materials are avilable (often outdated, locked down, internet restricted)
+	If need to register with email address don't work due to National laws about child safety
+
+	
+Tye your Curriculum to Standards to make it easier to adapt into school enviroment
+Common Core
+K12 CS.org
+CS Unplugged.org
+--whole set of unplugged activities with deck of cards
+
+ozobot - reacts to color of line you draw. 
+Ozoblockly can then be programed
+hold robot up to screen to download program and it flashes colors
+
+then pseduo code
+with decks of cards
+write rules
+then replace spaces with _
+add if and elif 
+then go read eachothers game and play
+
+Pitch:
+Why you're an OK
+	I've been approved with my background check
+Value of learning
+	How coding links to education 		
+What the school needs to do
+	Make sure _____ is unblocked
+What materials you'll need
+	I just need space 
+I've been thinking about equity of access and opprotunity
+
+Mindstorms by Seymour Papert
+Children, Computers, and Powerful Ideas
+
+
+
+------------------------------------------------
+
+
