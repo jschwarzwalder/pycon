@@ -1,0 +1,10 @@
+Python Django Getting started
+https://docs.djangoproject.com/en/1.9/intro/tutorial01/
+
+http://tutorial.djangogirls.org/en/installation/
+
+https://www.python.org/downloads/release/python-351/
+
+
+Coursear to learn more python
+https://www.coursera.org/learn/python
