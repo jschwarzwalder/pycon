@@ -1,0 +1,435 @@
+﻿LP2016 Python Education Summit Notepad
+
+
+Add your thoughts and ideas below!
+
+
+(Q: Is there an established hashtag for the summit?)
+Looks like it's #pythonedusummit (I don't know if that's official) 
+@python_edu: We’re going to use #pyconedu
+
+
+Q: How does one get an invite to pythonedu.slack.com?
+A: Reach out to Chalmer Lowe (Twitter: @chalmer_lowe, email: chalmer.lowe@gmail.com)
+
+
+Keynote thoughts:
+Signup for the two aliases...
+
+
+edu-sig@python.org (by visiting https://mail.python.org/mailman/listinfo/edu-sig)
+pythonedu-wg@python.org (by visiting https://mail.python.org/mailman/listinfo/pythonedu-wg) 
+
+
+PyGame Zero
+GPIO Zero
+Network Zero: https://networkzero.readthedocs.io/en/latest/ 
+Mu
+Will these slides be posted later? I am loving the microbit proposal sketch slide and would love to share it :) 
+@python_edu: we will ask nicholas to post them and if so… will add a URL here.
+
+
+
+
+Live demo of microbit: microbit.co.uk/create-code
+http://microworldtour.github.io/microbit/meena.html
+Pycomic.gihub.io
+Codewith.mu
+MicroPython
+github.com/ntoll/mu
+
+
+Pretty awesome microbit can be an instrument. 
+
+
+
+
+Seven Years of Lessons Learned: Teaching Students to Program Arcade Games with Python and Pygame
+Dr. Craven: http://programarcadegames.com
+* Good: Constantly revise and make your material better
+* Good: Publish on-line and get feedback of your work
+* Good: Self published in print via amazon CreateSpace
+* Good: Self publish with Kindle Direct Publishing
+* Online quizzes >>> excellent source of data about how you teach
+
+
+* PyGame
+* Arcade (https://pythonhosted.org/arcade)
+* Will be sprinting on arcade library
+* Draw on screen with Epic Pen
+
+
+* Revise your lessons every year (after each lesson, write down what didn’t go well). Caveat: if you keep adding to your material, you risk overblowing it.
+* Include sections for instructors - even though they may be in such a bad shape that you hope that nobody will read them.
+* Use quizzes as feedback mechanism that will let you know at which point you lost audience. Try to discover and fix what’s wrong.
+* Have a background theme: it can be computer graphics, automating boring stuff...
+
+
+
+
+PyGame Zero
+Daniel Pope
+Pygame zero 
+* Libraries should give you useful feedback
+* Write simple games with just a handful of lines
+* Students can get started within one or two lines of code
+* 
+
+
+
+Minecraft with Python
+Meena Pant
+Http://minemum.com: Bec Oakly the founder of Minemum provides a much needed guide to parents!
+Great book: Adventures of Raspberry Pi by Carrie Ann Philbin
+CoderDJ Twin Cities has a Minecraft set-up
+@Ntolly suggested Adventures of Minecraft book
+AWS
+
+
+I would suggest looking at https://www.nostarch.com/programwithminecraft as well (I haven’t explored it personally).
+I read the free chapter just yesterday and it looks great. The book also includes instructions for installing everything needed, and the software is available on the site.
+
+
+
+
+
+
+Lightning Talk: Python and Raspberry Pi in the Library
+Parkman Coders Detroit Public Library  Qumisha Goss qdgoss.esq@gmail.com @Qatalystgoss
+
+
+Things that work: Displays, working in groups, unplugged activities to reinforce concepts, freedom
+Issues: Age group, How to keep their attention, childlike ambition, kids who can’t read, bureaucracy
+
+
+Here’s my slide show https://docs.google.com/presentation/d/1Kg7m3c7hY8CoodrNoKT_WONcFW57Cau7Poqgw0xfdRU/edit?usp=sharing
+Lightning Talk: Introducing Students to Real Life Coding
+lasse.schuirmann@gmail.com
+  
+
+For Maintainers:
+* Be personal! Get people on IRCish things before they even know a bit about your project.
+   * Possibly perform workshops.
+* Create newcomer issues if you spot typos and similar. Make joining easy.
+* Try responding within hours, not days. Even “I don’t have time, I will answer in x” or “@... can you look at this”
+* Join Sprint to discuss with us!
+For Teachers:
+* Reach out to projects! We (http://coala-analyzer.org/) will provide support and code reviews e.g. for full classes for sure.
+* Maybe do a newcomer issue to learn more about real life coding yourself. University knowledge is usually limited, sadly.
+* Join Sprint to know more!
+Feedback for this talk:
+Lightning Talk: Martian Mathematics
+http://www.4dsolutions.net/satacad/martianmath/toc.html 
+Kirby Urner’s blog post on the EduSummit:
+http://worldgame.blogspot.com/2016/05/edusummit-pycon-2016.html
+...and a rant: http://mybizmo.blogspot.com/2016/05/edusummit-thoughts.html
+
+
+Afternoon Sessions
+Math & Python: IPython YouTubeVideo module. Python3>Python2 for calculator
+@echorand book: Doing Math with Python
+Sympy
+Slides: https://doingmathwithpython.github.io/pycon-us-2016/#/ 
+Notebooks and source: https://github.com/doingmathwithpython/pycon-us-2016
+If you are interested in a review copy of the book, please let me know. amitsaha.in@gmail.com 
+Using Graphics to Encourage Creativity and Pride of Ownership of Work in Introductory CS Classes
+* Free students from “one truthful solution”, encourage creativity, individual solutions.
+* > pride of ownership
+
+
+Thinking Out the Pipeline
+Teaching Scientists Python
+Data Structures
+
+
+* C and Python worked well
+* Looked at some examples of how C can teach low level details and how Python can teach the high level view.
+      -        Low level language: easy to find the complexity of the algorithm
+      -         High level language: hard to find the complexity of the algorithm
+
+
+Outside the Pipeline: Expanding Early Access to Coding as a Career Choice
+Note suggestions/send suggestion to Rebecca at rconley@caktusgroup.com
+
+
+Merlin for Data Science Education
+
+
+- Where to even start?
+- Spending 2hr out of a 8hr session in fixing something is not worth it
+- Shouldn't be proud of battling with tool set rather than not doing the real work
+- Merlin - packaged up big data environment http://www.darklabsdatascience.com/project_merlin/ 
+-
+
+
+--------------------------------------------------------------
+Using Graphics Library to build projects
+
+
+Seeing more students stay with the coding and reading the API’s on their own to figure out how to make the images/designs work.
+
+
+Giving assignments to students that allow them to be successful early and stick with it when it does become more difficult.
+
+
+Project 1) make a face
+Project 2) Load in a text file (it builds an image)
+Project 3) Build a house
+Project 4) Build Balloons attach string to object
+Project 5) make house float up screen.
+
+
+--------------------------------------------------------------
+Grok Learning
+40,000 failed attempts at writing Hello World ← forgot the comma
+
+
+Programming Competition
+teach everything you need to know to compete
+
+
+punctuation is biggest cause of errors
+Wrong words, or no output
+
+
+of 1015 who got a Syntax Error only 465 stayed 
+Name Error 306 129 
+
+
+These two errors turn people off from programing
+
+
+Running Code 
+avg of 10 attempts
+32% ended in errors
+Syntax errors 17% of time
+
+
+Name Error:
+var1= input('What is your name?')
+print('Hello', var2)
+
+
+or
+input('What is your name?')
+print(input)
+
+
+
+
+Hello Name is significantly more difficult than Hello World
+
+
+see error feels like a stop sign 
+
+
+teacher has board of errors. Add as you find a new one.
+Then talk about how to solve it if you find it.
+
+
+Blockly + Python (also Ozoblockly)
+
+
+Variables are hard for students to grasp
+
+
+------------------------------------------------
+Montessori
+
+
+College - focuses on language not on solving problems
+Welcome to Django online classes
+
+
+Teachers
+1. Materials (book, game, blocks)
+2. Classmates (peers. Learning with someone exchanging experiences)
+3. Tutor (observe enviroment, address when students struggle)
+
+
+materials - autocorrection
+we can write code to fix code. 100% test driven
+
+
+no tests/grades 
+Stats for how much time spent and which milestone reached, but no grades
+Build incrementally one step at a time
+
+
+Environment should empower me (shouldn't require me to memorize things to be successful)
+
+
+Ubuntu - most used platform so they can find answers.
+
+
+can guide through host stack
+
+
+Content is an obstacle
+Students present to who they will be in the future.
+small pills to help students
+Learn it now try this
+
+
+5 min video, try this, 5 more, try it.
+
+
+Share what they are learning. 
+henrique@bastos.net
+
+
+
+
+------------------------------------------------
+
+
+Equity
+
+
+Afterschool childcare 
+if they want to stay after school they can't get to daycare
+hinderance to participation 
+
+
+After School
+at YMCA, Boys & Girls Club, and KCLS
+
+
+Kids can't type (but have smartphones and compent)
+
+
+Leave room for internationalization if making educational tech
+Parents care, but need in home language
+
+
+Beforehand
+--What are the steps for background check
+--What materials are available (often outdated, locked down, internet restricted)
+        If need to register with email address don't work due to National laws about child safety
+
+
+        
+Tie your Curriculum to Standards to make it easier to adapt into school environment
+Common Core
+K12 CS.org
+CSUnplugged.org
+--whole set of unplugged activities with deck of cards and other tangible material - something children can try at home
+
+
+ozobot - reacts to color of line you draw. 
+Ozoblockly can then be programed
+hold robot up to screen to download program and it flashes colors
+
+
+then pseudo code
+with decks of cards
+write rules
+then replace spaces with _
+add if and elif 
+then go read each others game and play
+
+
+Pitch:
+Why you're an OK
+        I've been approved with my background check
+Value of learning
+        How coding links to education                 
+What the school needs to do
+        Make sure _____ is unblocked
+What materials you'll need
+        I just need space 
+I've been thinking about equity of access and opprotunity
+
+
+Mindstorms by Seymour Papert
+Children, Computers, and Powerful Ideas
+
+
+----
+If you like CS Unplugged, you should also check
+http://www.cs4fn.org/
+http://mathmaniacs.org/lessons/index.html (a lot of overlap with CS Unplugged - Mike Fellows is the common thread)
+https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/
+http://richannel.org/christmas-lectures/2008/2008-chris-bishop
+http://bebras.org --- see http://www.beaver-comp.org.uk/ for task examples
+Feedback for Organizers
+* Any feedback for us?
+* What worked, what didn’t?
+   * This shared sheet is highly useful and great!
+   * How were talks chosen? Some were great and clearly well thought-out (& rehearsed…), but others not particularly well-structured
+   * I didn’t know how to sign up for Slack or that this document existed. Reminding us during break would have been helpful
+   * It would be nice to have the talks recorded*
+   * Also I know this is probably hard but I wish we didn’t have to split the room I missed some cool talks.  Unless we can record talks
+
+
+
+
+Unconferenz: The In between
+* I don’t have a programmer background, so I’m very outside the realm of traditional CS. I teach kids the beginning of Python and Raspberry Pi, but now I have adults asking questions. I find that in my own learning, but I’m not a software developer, but it’s hard to find things beyond the beginning that is not software developer speak. 
+* There’s a big gap in the middle. There are beginner books and then books that are advanced.
+* I have students who write Python fluently, who know multiple languages fluently and then there are those who are absolute beginners. 
+* If you feel that you are no longer a beginner, have you read in all the built in methods? Have you learned all the short-cuts? Have you understood that language to that end? There’s the fluency of knowing how to work on something. Something that inspires you to continue learning programming. 
+* Incentivization is important for progression. Intermediate is an interesting pace to be. Motivation for continuation becomes much more apparent and a stronger influence on whether or not the student will continue.
+* When I start a class for companies, I bring materials and then the class/client and I identify what courses should be taught. “Show me your code and let’s try to fix it. I probably won’t fix it. You need to tell me the business, you know what it does.” It’s a mix of my goals and what works for them.
+* I don’t see it any different (teaching an intermediate) than teaching a beginner. Find a project that inspires you to dig deeper.
+* Are there milestones for this level? It’s a grey area. 
+* From my understanding, you get the beginner and expert areas---middle area needs to get flushed out in a concrete way. 
+* We have experienced folks who started coding, but then walked away when they got frustrated. 
+* You either learn from different projects or then you start to talk about the structure of things e.g. patterns, refactoring, etc. 
+* Test driven development----people appear to skip that.
+* Boredom vs anxiety when dealing with programming skills and challenges (Chalmer Lowe will provide image with the group).
+* We have to set personal milestones for students. Milestone are extremely important. Understanding a list from a dictionary is huge. 
+* Projects: 
+   * Code for America
+   * Code for Durham
+   * working on projects for local communities. 
+   * I would recommend looking at http://pybee.org/ as well - they have a booth in the conference too I think.
+   * I participated at http://adventofcode.com/ last December and also used those tasks to motivate students - I posted them on the wall and let the students post their solutions. 
+* Books: 
+   * Fluent Python
+   * Automate the Boring Stuff with Python
+   * Learning Python
+   * Think Python
+   * Python Cookbook
+   * Digital Mathematics and Programming in Python
+   * Magnus Lie Hetland, Beginning Python From Novice to Professional, has a nice and accessible style for my taste. See also his book on algorithms.
+* Other learning resources:
+   * Codeacademy
+   * Xx
+   * Xx
+        
+
+
+
+
+Most successful curriculum:
+Building 4 function Calculator
+Always successful with students
+Basic types (strings, integers, floats)
+Print statement 
+Give assignments to test things out 
+Then building function
+        hard coded subtraction
+        hard coded addition
+Then introduce input
+
+
+Math has been teaching variables for years
+Harder to make connection later on when variable makes you think math x
+
+
+No reason math has to be numbers. It can be strings
+
+
+Students are not making the connection between math and computer science 
+
+
+* May I suggest looking at my talk slides: https://doingmathwithpython.github.io/pycon-us-2016  
+
+
+Mailing Addresses (and keywords to remember who’s who optionally)
+
+
+* Lasse Schuirmann lasse.schuirmann@gmail.com (coala, code analysis, workshops)
+* Henrique Bastos henrique@bastos.net 
+*

@@ -221,4 +221,18 @@ Children, Computers, and Powerful Ideas
 
 ------------------------------------------------
 
+Building 4 function Calculator
+Always successful with students
+Basic types (strings, integers, floats)
+Print statement 
+Give assignments to test things out 
 
+then building function
+	hard coded subtraction
+	hard coded addition
+
+Then introduce input
+
+Math has been teaching variables for years
+
+	
